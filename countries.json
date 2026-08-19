@@ -1,0 +1,176 @@
+{
+  "easy": {
+    "Германский Рейх": {
+      "tag": "GER",
+      "default_ideology": "Фашизм"
+    },
+    "Советский Союз": {
+      "tag": "SOV",
+      "default_ideology": "Коммунизм"
+    },
+    "Соединенные Штаты Америки": {
+      "tag": "USA",
+      "default_ideology": "Демократия"
+    },
+    "Великобритания": {
+      "tag": "ENG",
+      "default_ideology": "Демократия"
+    },
+    "Японская Империя": {
+      "tag": "JAP",
+      "default_ideology": "Фашизм"
+    },
+    "Италия": {
+      "tag": "ITA",
+      "default_ideology": "Фашизм"
+    },
+    "Франция": {
+      "tag": "FRA",
+      "default_ideology": "Демократия"
+    }
+  },
+  "normal": {
+    "Польша": {
+      "tag": "POL",
+      "default_ideology": "Нейтралитет"
+    },
+    "Китай": {
+      "tag": "CHI",
+      "default_ideology": "Нейтралитет"
+    },
+    "Британский Радж": {
+      "tag": "RAJ",
+      "default_ideology": "Демократия"
+    },
+    "Австралия": {
+      "tag": "AST",
+      "default_ideology": "Демократия"
+    },
+    "Канада": {
+      "tag": "CAN",
+      "default_ideology": "Демократия"
+    },
+    "Румыния": {
+      "tag": "ROM",
+      "default_ideology": "Нейтралитет"
+    },
+    "Венгрия": {
+      "tag": "HUN",
+      "default_ideology": "Нейтралитет"
+    },
+    "Иран": {
+      "tag": "PER",
+      "default_ideology": "Нейтралитет"
+    },
+    "Испания": {
+      "tag": "SPR",
+      "default_ideology": "Нейтралитет"
+    },
+    "Швеция": {
+      "tag": "SWE",
+      "default_ideology": "Демократия"
+    },
+    "Бразилия": {
+      "tag": "BRA",
+      "default_ideology": "Нейтралитет"
+    },
+    "Аргентина": {
+      "tag": "ARG",
+      "default_ideology": "Демократия"
+    },
+    "Турция": {
+      "tag": "TUR",
+      "default_ideology": "Нейтралитет"
+    },
+    "Финляндия": {
+      "tag": "FIN",
+      "default_ideology": "Демократия"
+    },
+    "Мексика": {
+      "tag": "MEX",
+      "default_ideology": "Демократия"
+    },
+    "Югославия": {
+      "tag": "YUG",
+      "default_ideology": "Нейтралитет"
+    }
+  },
+  "hard": {
+    "Эфиопия": {
+      "tag": "ETH",
+      "default_ideology": "Нейтралитет"
+    },
+    "Албания": {
+      "tag": "ALB",
+      "default_ideology": "Нейтралитет"
+    },
+    "Бутан": {
+      "tag": "BHU",
+      "default_ideology": "Нейтралитет"
+    },
+    "Люксембург": {
+      "tag": "LUX",
+      "default_ideology": "Демократия"
+    },
+    "Танну-Тува": {
+      "tag": "TAN",
+      "default_ideology": "Коммунизм"
+    },
+    "Непал": {
+      "tag": "NEP",
+      "default_ideology": "Нейтралитет"
+    },
+    "Саудовская Аравия": {
+      "tag": "SAU",
+      "default_ideology": "Нейтралитет"
+    },
+    "Ирак": {
+      "tag": "IRQ",
+      "default_ideology": "Нейтралитет"
+    },
+    "Афганистан": {
+      "tag": "AFG",
+      "default_ideology": "Нейтралитет"
+    },
+    "Йемен": {
+      "tag": "YEM",
+      "default_ideology": "Нейтралитет"
+    },
+    "Оман": {
+      "tag": "OMA",
+      "default_ideology": "Нейтралитет"
+    },
+    "Монголия": {
+      "tag": "MON",
+      "default_ideology": "Коммунизм"
+    },
+    "Латвия": {
+      "tag": "LAT",
+      "default_ideology": "Нейтралитет"
+    },
+    "Эстония": {
+      "tag": "EST",
+      "default_ideology": "Нейтралитет"
+    },
+    "Литва": {
+      "tag": "LIT",
+      "default_ideology": "Нейтралитет"
+    },
+    "Доминиканская Республика": {
+      "tag": "DOM",
+      "default_ideology": "Демократия"
+    },
+    "Куба": {
+      "tag": "CUB",
+      "default_ideology": "Демократия"
+    },
+    "Панама": {
+      "tag": "PAN",
+      "default_ideology": "Демократия"
+    },
+    "Гаити": {
+      "tag": "HAI",
+      "default_ideology": "Демократия"
+    }
+  }
+}
